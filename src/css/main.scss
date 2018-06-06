@@ -1,0 +1,20 @@
+@import "colors";
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+#randomInt {
+    background: $main;
+    border: 1px solid black;
+    color: #fff;
+    padding: 5px;
+}
+
+#randomRange {
+    background: $secondary;
+    border: solid 1px #000;
+    color: #fff;
+    padding: 5px;
+}
